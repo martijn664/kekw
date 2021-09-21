@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>schaats toernooi</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <h1>lijst met deelnemers</h1>
+    <p>overzicht van de wedstrijden</p>
+    <table>
+        <thead>
+            <tr>
+                <th>tijd</th>
+                <th>speler 1</th>
+                <th>speler 2</th>
+                <th>winnaar</th>
+            </tr>
+
+        </thead>
+        <tbody>
+
+            <tr>
+                <td><label for="appt"></label>
+                    <input type="time" id="appt" name="appt">
+                </td>
+                <td><label for="naam1"></label>
+                    <input type="text" id="naam1" name="naam1">
+                </td>
+                <td><label for="naam2"></label>
+                    <input type="text" id="naam2" name="naam2">
+                </td>
+                <td><label for="naam3"></label>
+                    <input type="text" id="naam3" name="naam3">
+
+            </tr>
+            <tr>
+
+                <td><label for="appt2"></label>
+                    <input type="time" id="appt2" name="appt2">
+                </td>
+                <td><label for="naam4"></label>
+                    <input type="text" id="naam4" name="naam4">
+                </td>
+                <td><label for="naam5"></label>
+                    <input type="text" id="naam5" name="naam5">
+                </td>
+                <td><label for="naam6"></label>
+                    <input type="text" id="naam6" name="naam6">
+                </td>
+            </tr>
+            <tr>
+
+                <td><label for="appt3"></label>
+                    <input type="time" id="appt3" name="appt3">
+                </td>
+                <td><label for="naam7"></label>
+                    <input type="text" id="naam7" name="naam7">
+                </td>
+                <td><label for="naam8"></label>
+                    <input type="text" id="naam8" name="naam8">
+                </td>
+                <td><label for="naam9"></label>
+                    <input type="text" id="naam9" name="naam9">
+                </td>
+            </tr>
+            <tr>
+
+                <td><label for="appt4"></label>
+                    <input type="time" id="appt4" name="appt4">
+                </td>
+                <td><label for="naam10"></label>
+                    <input type="text" id="naam10" name="naam10">
+                </td>
+                <td><label for="naam11"></label>
+                    <input type="text" id="naam11" name="naam11">
+                </td>
+                <td><label for="naam12"></label>
+                    <input type="text" id="naam12" name="naam12">
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>
+
+</html>
